@@ -82,6 +82,22 @@
           }
         }
       },
+      "Google.Protobuf/3.32.0.0": {
+        "runtime": {
+          "Google.Protobuf.dll": {
+            "assemblyVersion": "3.32.0.0",
+            "fileVersion": "3.32.0.0"
+          }
+        }
+      },
+      "Grpc.Core.Api/2.0.0.0": {
+        "runtime": {
+          "Grpc.Core.Api.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.71.0.0"
+          }
+        }
+      },
       "ClickableTransparentOverlay/9.1.0.0": {
         "runtime": {
           "ClickableTransparentOverlay.dll": {
@@ -266,6 +282,22 @@
           }
         }
       },
+      "Grpc.Net.Client/2.0.0.0": {
+        "runtime": {
+          "Grpc.Net.Client.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.71.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/6.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
       "Vortice.Direct3D11/3.3.4.0": {
         "runtime": {
           "Vortice.Direct3D11.dll": {
@@ -319,6 +351,14 @@
           "Vanara.PInvoke.ComDlg32.dll": {
             "assemblyVersion": "3.4.17.0",
             "fileVersion": "3.4.17.0"
+          }
+        }
+      },
+      "Grpc.Net.Common/2.0.0.0": {
+        "runtime": {
+          "Grpc.Net.Common.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.71.0.0"
           }
         }
       },
@@ -393,6 +433,16 @@
       "sha512": ""
     },
     "GameOffsets2/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.32.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grpc.Core.Api/2.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -512,6 +562,16 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Grpc.Net.Client/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Vortice.Direct3D11/3.3.4.0": {
       "type": "reference",
       "serviceable": false,
@@ -543,6 +603,11 @@
       "sha512": ""
     },
     "Vanara.PInvoke.ComDlg32/3.4.17.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grpc.Net.Common/2.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
