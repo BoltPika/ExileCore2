@@ -1,7 +1,7 @@
 [
   {
     "Stats": [
-      914
+      952
     ],
     "Sections": [
       {
@@ -20,7 +20,38 @@
   },
   {
     "Stats": [
-      6601
+      9904
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Monsters have {0}% increased [AilmentThreshold|Elemental Ailment Threshold]"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "Monsters have {0}% reduced [AilmentThreshold|Elemental Ailment Threshold]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      6576
     ],
     "Sections": [
       {
@@ -39,7 +70,7 @@
   },
   {
     "Stats": [
-      4811
+      4806
     ],
     "Sections": [
       {
@@ -58,7 +89,7 @@
   },
   {
     "Stats": [
-      5701
+      5678
     ],
     "Sections": [
       {
@@ -77,7 +108,7 @@
   },
   {
     "Stats": [
-      4810
+      4805
     ],
     "Sections": [
       {
@@ -96,7 +127,7 @@
   },
   {
     "Stats": [
-      341
+      339
     ],
     "Sections": [
       {
@@ -115,7 +146,7 @@
   },
   {
     "Stats": [
-      2445
+      2466
     ],
     "Sections": [
       {
@@ -146,7 +177,7 @@
   },
   {
     "Stats": [
-      13810
+      13628
     ],
     "Sections": [
       {
@@ -165,7 +196,7 @@
   },
   {
     "Stats": [
-      13811
+      13629
     ],
     "Sections": [
       {
@@ -184,7 +215,7 @@
   },
   {
     "Stats": [
-      19794
+      19522
     ],
     "Sections": [
       {
@@ -203,7 +234,7 @@
   },
   {
     "Stats": [
-      575
+      574
     ],
     "Sections": [
       {
@@ -234,7 +265,7 @@
   },
   {
     "Stats": [
-      7983
+      7929
     ],
     "Sections": [
       {
@@ -265,7 +296,7 @@
   },
   {
     "Stats": [
-      6978
+      6944
     ],
     "Sections": [
       {
@@ -284,7 +315,7 @@
   },
   {
     "Stats": [
-      185
+      186
     ],
     "Sections": [
       {
@@ -303,7 +334,7 @@
   },
   {
     "Stats": [
-      186
+      187
     ],
     "Sections": [
       {
@@ -322,7 +353,7 @@
   },
   {
     "Stats": [
-      187
+      188
     ],
     "Sections": [
       {
@@ -341,7 +372,7 @@
   },
   {
     "Stats": [
-      188
+      189
     ],
     "Sections": [
       {
@@ -360,7 +391,7 @@
   },
   {
     "Stats": [
-      5157
+      5145
     ],
     "Sections": [
       {
@@ -391,8 +422,8 @@
   },
   {
     "Stats": [
-      445,
-      193
+      442,
+      194
     ],
     "Sections": [
       {
@@ -450,38 +481,7 @@
   },
   {
     "Stats": [
-      597
-    ],
-    "Sections": [
-      {
-        "StatRanges": [
-          {
-            "Item1": 1,
-            "Item2": 99
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Monsters' Hits have {0}% chance to Ignite"
-      },
-      {
-        "StatRanges": [
-          {
-            "Item1": 100,
-            "Item2": 2147483647
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Monsters' Hits always Ignite"
-      }
-    ]
-  },
-  {
-    "Stats": [
-      645
+      648
     ],
     "Sections": [
       {
@@ -512,7 +512,7 @@
   },
   {
     "Stats": [
-      4287
+      4284
     ],
     "Sections": [
       {
@@ -531,7 +531,7 @@
   },
   {
     "Stats": [
-      467
+      464
     ],
     "Sections": [
       {
@@ -562,7 +562,7 @@
   },
   {
     "Stats": [
-      3986
+      3983
     ],
     "Sections": [
       {
@@ -581,7 +581,7 @@
   },
   {
     "Stats": [
-      4288
+      4285
     ],
     "Sections": [
       {
@@ -600,26 +600,7 @@
   },
   {
     "Stats": [
-      7764
-    ],
-    "Sections": [
-      {
-        "StatRanges": [
-          {
-            "Item1": -2147483648,
-            "Item2": 2147483647
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Monsters have {0:+d}% to maximum Chance to Block Spell Damage"
-      }
-    ]
-  },
-  {
-    "Stats": [
-      3244
+      3252
     ],
     "Sections": [
       {
@@ -650,7 +631,7 @@
   },
   {
     "Stats": [
-      582
+      581
     ],
     "Sections": [
       {
@@ -669,7 +650,7 @@
   },
   {
     "Stats": [
-      581
+      580
     ],
     "Sections": [
       {
@@ -688,7 +669,7 @@
   },
   {
     "Stats": [
-      583
+      582
     ],
     "Sections": [
       {
@@ -707,28 +688,9 @@
   },
   {
     "Stats": [
-      2045
-    ],
-    "Sections": [
-      {
-        "StatRanges": [
-          {
-            "Item1": -2147483648,
-            "Item2": 2147483647
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Monsters have {0:+d}% Chance to Block Spell Damage"
-      }
-    ]
-  },
-  {
-    "Stats": [
-      3484,
-      2290,
-      2609
+      3488,
+      2313,
+      2626
     ],
     "Sections": [
       {
@@ -861,7 +823,7 @@
   },
   {
     "Stats": [
-      573
+      572
     ],
     "Sections": [
       {
@@ -892,7 +854,7 @@
   },
   {
     "Stats": [
-      678
+      707
     ],
     "Sections": [
       {
@@ -911,7 +873,7 @@
   },
   {
     "Stats": [
-      3962
+      3960
     ],
     "Sections": [
       {
@@ -942,7 +904,7 @@
   },
   {
     "Stats": [
-      571
+      570
     ],
     "Sections": [
       {
@@ -973,7 +935,7 @@
   },
   {
     "Stats": [
-      10174
+      10088
     ],
     "Sections": [
       {
@@ -992,7 +954,7 @@
   },
   {
     "Stats": [
-      196
+      198
     ],
     "Sections": [
       {
@@ -1023,7 +985,7 @@
   },
   {
     "Stats": [
-      667
+      696
     ],
     "Sections": [
       {
@@ -1042,7 +1004,7 @@
   },
   {
     "Stats": [
-      2232
+      2257
     ],
     "Sections": [
       {
@@ -1061,7 +1023,7 @@
   },
   {
     "Stats": [
-      3981
+      3978
     ],
     "Sections": [
       {
@@ -1074,13 +1036,13 @@
         "StatConversionTypes": [
           "PerMinuteToPerSecond"
         ],
-        "String": "Every 4 seconds, [Runic] Monsters Regenerate {0}% of Life over one second"
+        "String": "Every 4 seconds, [Runic] Monsters Regenerate {0}% of maximum Life over one second"
       }
     ]
   },
   {
     "Stats": [
-      4489
+      4486
     ],
     "Sections": [
       {
@@ -1099,7 +1061,7 @@
   },
   {
     "Stats": [
-      18454
+      18182
     ],
     "Sections": [
       {
@@ -1130,7 +1092,7 @@
   },
   {
     "Stats": [
-      18259
+      17989
     ],
     "Sections": [
       {
@@ -1143,7 +1105,7 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "Monsters have {0}% increased chance to [Ignite]"
+        "String": "Monsters have {0}% increased [Flammability] [BuffMagnitude|Magnitude]"
       },
       {
         "StatRanges": [
@@ -1155,13 +1117,13 @@
         "StatConversionTypes": [
           "Negate"
         ],
-        "String": "Monsters have {0}% reduced chance to [Ignite]"
+        "String": "Monsters have {0}% reduced [Flammability] [BuffMagnitude|Magnitude]"
       }
     ]
   },
   {
     "Stats": [
-      197
+      199
     ],
     "Sections": [
       {
@@ -1192,7 +1154,7 @@
   },
   {
     "Stats": [
-      727
+      770
     ],
     "Sections": [
       {
@@ -1211,7 +1173,7 @@
   },
   {
     "Stats": [
-      8005
+      7951
     ],
     "Sections": [
       {
@@ -1224,7 +1186,7 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "Monsters have {0}% increased Impale Effect"
+        "String": "Monsters have {0}% increased [Impale] [BuffMagnitude|Magnitude]"
       },
       {
         "StatRanges": [
@@ -1236,13 +1198,13 @@
         "StatConversionTypes": [
           "Negate"
         ],
-        "String": "Monsters have {0}% reduced Impale Effect"
+        "String": "Monsters have {0}% reduced [Impale] [BuffMagnitude|Magnitude]"
       }
     ]
   },
   {
     "Stats": [
-      4517
+      4514
     ],
     "Sections": [
       {
@@ -1255,13 +1217,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "Monsters Kill things with 20% or lower Life on Hit"
+        "String": "Monsters kill things with 20% or lower Life on [HitDamage|Hit]"
       }
     ]
   },
   {
     "Stats": [
-      481
+      478
     ],
     "Sections": [
       {
@@ -1280,7 +1242,7 @@
   },
   {
     "Stats": [
-      1052
+      1086
     ],
     "Sections": [
       {
@@ -1330,7 +1292,7 @@
   },
   {
     "Stats": [
-      13807
+      13625
     ],
     "Sections": [
       {
@@ -1349,7 +1311,7 @@
   },
   {
     "Stats": [
-      4369
+      4366
     ],
     "Sections": [
       {
@@ -1461,7 +1423,7 @@
   },
   {
     "Stats": [
-      211
+      213
     ],
     "Sections": [
       {
@@ -1492,7 +1454,7 @@
   },
   {
     "Stats": [
-      753
+      795
     ],
     "Sections": [
       {
@@ -1523,7 +1485,7 @@
   },
   {
     "Stats": [
-      2468
+      2490
     ],
     "Sections": [
       {
@@ -1542,7 +1504,7 @@
   },
   {
     "Stats": [
-      18136
+      17868
     ],
     "Sections": [
       {
@@ -1561,7 +1523,7 @@
   },
   {
     "Stats": [
-      18134
+      17866
     ],
     "Sections": [
       {
@@ -1580,7 +1542,7 @@
   },
   {
     "Stats": [
-      18133
+      17865
     ],
     "Sections": [
       {
@@ -1599,7 +1561,7 @@
   },
   {
     "Stats": [
-      18135
+      17867
     ],
     "Sections": [
       {
@@ -1618,7 +1580,7 @@
   },
   {
     "Stats": [
-      439
+      436
     ],
     "Sections": [
       {
@@ -1637,7 +1599,7 @@
   },
   {
     "Stats": [
-      698
+      728
     ],
     "Sections": [
       {
@@ -1656,7 +1618,7 @@
   },
   {
     "Stats": [
-      585
+      584
     ],
     "Sections": [
       {
@@ -1675,7 +1637,7 @@
   },
   {
     "Stats": [
-      13809
+      13627
     ],
     "Sections": [
       {
@@ -1694,7 +1656,7 @@
   },
   {
     "Stats": [
-      13808
+      13626
     ],
     "Sections": [
       {
@@ -1713,7 +1675,7 @@
   },
   {
     "Stats": [
-      7223
+      7187
     ],
     "Sections": [
       {
@@ -1732,7 +1694,7 @@
   },
   {
     "Stats": [
-      18260
+      17990
     ],
     "Sections": [
       {
@@ -1763,7 +1725,7 @@
   },
   {
     "Stats": [
-      3418
+      3422
     ],
     "Sections": [
       {
@@ -1825,7 +1787,7 @@
   },
   {
     "Stats": [
-      13481
+      13312
     ],
     "Sections": [
       {
@@ -1856,7 +1818,7 @@
   },
   {
     "Stats": [
-      13813
+      13631
     ],
     "Sections": [
       {
@@ -1887,7 +1849,7 @@
   },
   {
     "Stats": [
-      13815
+      13633
     ],
     "Sections": [
       {
@@ -1918,7 +1880,7 @@
   },
   {
     "Stats": [
-      13840
+      13658
     ],
     "Sections": [
       {
@@ -1949,7 +1911,7 @@
   },
   {
     "Stats": [
-      13878
+      13696
     ],
     "Sections": [
       {
@@ -1980,7 +1942,7 @@
   },
   {
     "Stats": [
-      13882
+      13700
     ],
     "Sections": [
       {
@@ -2011,7 +1973,7 @@
   },
   {
     "Stats": [
-      13876
+      13694
     ],
     "Sections": [
       {
@@ -2042,7 +2004,7 @@
   },
   {
     "Stats": [
-      13836
+      13654
     ],
     "Sections": [
       {
@@ -2073,7 +2035,7 @@
   },
   {
     "Stats": [
-      13884
+      13702
     ],
     "Sections": [
       {
@@ -2104,7 +2066,7 @@
   },
   {
     "Stats": [
-      13838
+      13656
     ],
     "Sections": [
       {
@@ -2135,7 +2097,7 @@
   },
   {
     "Stats": [
-      13835
+      13653
     ],
     "Sections": [
       {
@@ -2166,7 +2128,7 @@
   },
   {
     "Stats": [
-      13877
+      13695
     ],
     "Sections": [
       {
@@ -2197,7 +2159,7 @@
   },
   {
     "Stats": [
-      13879
+      13697
     ],
     "Sections": [
       {
@@ -2228,7 +2190,7 @@
   },
   {
     "Stats": [
-      13865
+      13683
     ],
     "Sections": [
       {
@@ -2259,7 +2221,7 @@
   },
   {
     "Stats": [
-      13834
+      13652
     ],
     "Sections": [
       {
@@ -2290,7 +2252,7 @@
   },
   {
     "Stats": [
-      13842
+      13660
     ],
     "Sections": [
       {
@@ -2321,7 +2283,7 @@
   },
   {
     "Stats": [
-      13875
+      13693
     ],
     "Sections": [
       {
@@ -2352,7 +2314,7 @@
   },
   {
     "Stats": [
-      13885
+      13703
     ],
     "Sections": [
       {
@@ -2383,7 +2345,7 @@
   },
   {
     "Stats": [
-      13837
+      13655
     ],
     "Sections": [
       {
@@ -2414,7 +2376,7 @@
   },
   {
     "Stats": [
-      13863
+      13681
     ],
     "Sections": [
       {
@@ -2445,7 +2407,7 @@
   },
   {
     "Stats": [
-      13881
+      13699
     ],
     "Sections": [
       {
@@ -2476,7 +2438,7 @@
   },
   {
     "Stats": [
-      13833
+      13651
     ],
     "Sections": [
       {
@@ -2507,7 +2469,7 @@
   },
   {
     "Stats": [
-      13883
+      13701
     ],
     "Sections": [
       {
@@ -2538,7 +2500,7 @@
   },
   {
     "Stats": [
-      13872
+      13690
     ],
     "Sections": [
       {
@@ -2569,7 +2531,7 @@
   },
   {
     "Stats": [
-      13873
+      13691
     ],
     "Sections": [
       {
@@ -2582,7 +2544,7 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Rare Jewellery Item}}"
+        "String": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Rare [Jewellery] Item}}"
       },
       {
         "StatRanges": [
@@ -2594,13 +2556,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "<enchanted>{{Excavated Chests contain an additional Rare Jewellery Item}}"
+        "String": "<enchanted>{{Excavated Chests contain an additional Rare [Jewellery] Item}}"
       }
     ]
   },
   {
     "Stats": [
-      13874
+      13692
     ],
     "Sections": [
       {
@@ -2631,7 +2593,7 @@
   },
   {
     "Stats": [
-      13839
+      13657
     ],
     "Sections": [
       {
@@ -2662,7 +2624,7 @@
   },
   {
     "Stats": [
-      13880
+      13698
     ],
     "Sections": [
       {
@@ -2693,7 +2655,7 @@
   },
   {
     "Stats": [
-      13843
+      13661
     ],
     "Sections": [
       {
@@ -2724,7 +2686,7 @@
   },
   {
     "Stats": [
-      13841
+      13659
     ],
     "Sections": [
       {
@@ -2755,7 +2717,7 @@
   },
   {
     "Stats": [
-      13868
+      13686
     ],
     "Sections": [
       {
@@ -2786,7 +2748,7 @@
   },
   {
     "Stats": [
-      13869
+      13687
     ],
     "Sections": [
       {
@@ -2817,7 +2779,7 @@
   },
   {
     "Stats": [
-      13870
+      13688
     ],
     "Sections": [
       {
@@ -2848,7 +2810,7 @@
   },
   {
     "Stats": [
-      13871
+      13689
     ],
     "Sections": [
       {
@@ -2879,7 +2841,7 @@
   },
   {
     "Stats": [
-      13829
+      13647
     ],
     "Sections": [
       {
@@ -2910,7 +2872,7 @@
   },
   {
     "Stats": [
-      13851
+      13669
     ],
     "Sections": [
       {
@@ -2941,7 +2903,7 @@
   },
   {
     "Stats": [
-      13855
+      13673
     ],
     "Sections": [
       {
@@ -2972,7 +2934,7 @@
   },
   {
     "Stats": [
-      13849
+      13667
     ],
     "Sections": [
       {
@@ -3003,7 +2965,7 @@
   },
   {
     "Stats": [
-      8544
+      8479
     ],
     "Sections": [
       {
@@ -3034,7 +2996,7 @@
   },
   {
     "Stats": [
-      13825
+      13643
     ],
     "Sections": [
       {
@@ -3065,7 +3027,7 @@
   },
   {
     "Stats": [
-      13857
+      13675
     ],
     "Sections": [
       {
@@ -3096,7 +3058,7 @@
   },
   {
     "Stats": [
-      13827
+      13645
     ],
     "Sections": [
       {
@@ -3127,7 +3089,7 @@
   },
   {
     "Stats": [
-      13824
+      13642
     ],
     "Sections": [
       {
@@ -3158,7 +3120,7 @@
   },
   {
     "Stats": [
-      13850
+      13668
     ],
     "Sections": [
       {
@@ -3189,7 +3151,7 @@
   },
   {
     "Stats": [
-      13852
+      13670
     ],
     "Sections": [
       {
@@ -3220,7 +3182,7 @@
   },
   {
     "Stats": [
-      13864
+      13682
     ],
     "Sections": [
       {
@@ -3251,7 +3213,7 @@
   },
   {
     "Stats": [
-      2106
+      2131
     ],
     "Sections": [
       {
@@ -3270,7 +3232,7 @@
   },
   {
     "Stats": [
-      13823
+      13641
     ],
     "Sections": [
       {
@@ -3301,7 +3263,7 @@
   },
   {
     "Stats": [
-      13831
+      13649
     ],
     "Sections": [
       {
@@ -3332,7 +3294,7 @@
   },
   {
     "Stats": [
-      13848
+      13666
     ],
     "Sections": [
       {
@@ -3363,7 +3325,7 @@
   },
   {
     "Stats": [
-      13858
+      13676
     ],
     "Sections": [
       {
@@ -3394,7 +3356,7 @@
   },
   {
     "Stats": [
-      13826
+      13644
     ],
     "Sections": [
       {
@@ -3425,7 +3387,7 @@
   },
   {
     "Stats": [
-      13862
+      13680
     ],
     "Sections": [
       {
@@ -3456,7 +3418,7 @@
   },
   {
     "Stats": [
-      13854
+      13672
     ],
     "Sections": [
       {
@@ -3487,7 +3449,7 @@
   },
   {
     "Stats": [
-      13822
+      13640
     ],
     "Sections": [
       {
@@ -3518,7 +3480,7 @@
   },
   {
     "Stats": [
-      13856
+      13674
     ],
     "Sections": [
       {
@@ -3549,7 +3511,7 @@
   },
   {
     "Stats": [
-      13859
+      13677
     ],
     "Sections": [
       {
@@ -3580,7 +3542,7 @@
   },
   {
     "Stats": [
-      13860
+      13678
     ],
     "Sections": [
       {
@@ -3593,7 +3555,7 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "<enchanted>{{[Runic] Monsters have {0}% chance to drop an additional [Rarity|Rare] Jewellery Item}}"
+        "String": "<enchanted>{{[Runic] Monsters have {0}% chance to drop an additional [Rarity|Rare] [Jewellery] Item}}"
       },
       {
         "StatRanges": [
@@ -3605,13 +3567,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "<enchanted>{{[Runic] Monsters drop an additional [Rarity|Rare] Jewellery Item}}"
+        "String": "<enchanted>{{[Runic] Monsters drop an additional [Rarity|Rare] [Jewellery] Item}}"
       }
     ]
   },
   {
     "Stats": [
-      13861
+      13679
     ],
     "Sections": [
       {
@@ -3642,7 +3604,7 @@
   },
   {
     "Stats": [
-      13828
+      13646
     ],
     "Sections": [
       {
@@ -3673,7 +3635,7 @@
   },
   {
     "Stats": [
-      13853
+      13671
     ],
     "Sections": [
       {
@@ -3704,7 +3666,7 @@
   },
   {
     "Stats": [
-      13832
+      13650
     ],
     "Sections": [
       {
@@ -3735,7 +3697,7 @@
   },
   {
     "Stats": [
-      13830
+      13648
     ],
     "Sections": [
       {
@@ -3766,7 +3728,7 @@
   },
   {
     "Stats": [
-      13844
+      13662
     ],
     "Sections": [
       {
@@ -3797,7 +3759,7 @@
   },
   {
     "Stats": [
-      13845
+      13663
     ],
     "Sections": [
       {
@@ -3828,7 +3790,7 @@
   },
   {
     "Stats": [
-      13846
+      13664
     ],
     "Sections": [
       {
@@ -3859,7 +3821,7 @@
   },
   {
     "Stats": [
-      13847
+      13665
     ],
     "Sections": [
       {
@@ -3890,7 +3852,64 @@
   },
   {
     "Stats": [
-      13812
+      22444
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop other Items instead of Armour}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22445
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop other Items instead of Jewellery}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      22443
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{[Runic] Monsters drop other Items instead of Weapons}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13630
     ],
     "Sections": [
       {
@@ -3921,7 +3940,7 @@
   },
   {
     "Stats": [
-      13814
+      13632
     ],
     "Sections": [
       {
@@ -3952,7 +3971,7 @@
   },
   {
     "Stats": [
-      8544
+      8479
     ],
     "Sections": [
       {
@@ -3971,7 +3990,7 @@
   },
   {
     "Stats": [
-      13901
+      13719
     ],
     "Sections": [
       {
@@ -3990,7 +4009,7 @@
   },
   {
     "Stats": [
-      16940
+      16699
     ],
     "Sections": [
       {
@@ -4009,7 +4028,7 @@
   },
   {
     "Stats": [
-      990
+      1028
     ],
     "Sections": [
       {
@@ -4040,7 +4059,7 @@
   },
   {
     "Stats": [
-      992
+      1030
     ],
     "Sections": [
       {
@@ -4059,7 +4078,26 @@
   },
   {
     "Stats": [
-      20275
+      22624
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Monsters have +{0}% chance to Coalesce Corruption}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      19993
     ],
     "Sections": [
       {
@@ -4090,7 +4128,7 @@
   },
   {
     "Stats": [
-      20274
+      19991
     ],
     "Sections": [
       {
@@ -4121,7 +4159,7 @@
   },
   {
     "Stats": [
-      991
+      1029
     ],
     "Sections": [
       {
@@ -4140,7 +4178,7 @@
   },
   {
     "Stats": [
-      10
+      11
     ],
     "Sections": [
       {
