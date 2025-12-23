@@ -541,7 +541,7 @@
   },
   {
     "Stats": [
-      24499
+      24498
     ],
     "Sections": [
       {
@@ -598,7 +598,7 @@
   },
   {
     "Stats": [
-      21816
+      21814
     ],
     "Sections": [
       {
@@ -629,7 +629,7 @@
   },
   {
     "Stats": [
-      20259
+      20258
     ],
     "Sections": [
       {
@@ -648,7 +648,7 @@
   },
   {
     "Stats": [
-      21817
+      21815
     ],
     "Sections": [
       {
@@ -679,7 +679,7 @@
   },
   {
     "Stats": [
-      19985
+      19984
     ],
     "Sections": [
       {
@@ -710,7 +710,7 @@
   },
   {
     "Stats": [
-      19986
+      19985
     ],
     "Sections": [
       {
@@ -1198,7 +1198,7 @@
   },
   {
     "Stats": [
-      20224
+      20223
     ],
     "Sections": [
       {
@@ -1854,7 +1854,7 @@
   },
   {
     "Stats": [
-      24446
+      24445
     ],
     "Sections": [
       {
@@ -1873,7 +1873,7 @@
   },
   {
     "Stats": [
-      24448
+      24447
     ],
     "Sections": [
       {
@@ -1892,7 +1892,7 @@
   },
   {
     "Stats": [
-      24447
+      24446
     ],
     "Sections": [
       {
@@ -2173,7 +2173,7 @@
   },
   {
     "Stats": [
-      24443
+      24442
     ],
     "Sections": [
       {
@@ -2273,7 +2273,7 @@
   },
   {
     "Stats": [
-      24444
+      24443
     ],
     "Sections": [
       {
@@ -2335,7 +2335,7 @@
   },
   {
     "Stats": [
-      24445
+      24444
     ],
     "Sections": [
       {
@@ -2366,7 +2366,7 @@
   },
   {
     "Stats": [
-      24484
+      24483
     ],
     "Sections": [
       {
@@ -2391,7 +2391,7 @@
         "StatConversionTypes": [
           "Negate"
         ],
-        "String": "{0}% increased [MonsterEffectiveness|Effectiveness] of Abyssal Monsters in your Maps"
+        "String": "{0}% reduced [MonsterEffectiveness|Effectiveness] of Abyssal Monsters in your Maps"
       }
     ]
   },
@@ -2485,7 +2485,7 @@
   },
   {
     "Stats": [
-      24674
+      24673
     ],
     "Sections": [
       {
@@ -2535,7 +2535,7 @@
   },
   {
     "Stats": [
-      24490
+      24489
     ],
     "Sections": [
       {
@@ -2573,7 +2573,7 @@
   },
   {
     "Stats": [
-      24449
+      24448
     ],
     "Sections": [
       {
@@ -2981,7 +2981,7 @@
   },
   {
     "Stats": [
-      22479
+      22477
     ],
     "Sections": [
       {
@@ -3212,7 +3212,7 @@
   },
   {
     "Stats": [
-      24717
+      24716
     ],
     "Sections": [
       {
@@ -3262,7 +3262,7 @@
   },
   {
     "Stats": [
-      24719
+      24718
     ],
     "Sections": [
       {
@@ -3281,7 +3281,7 @@
   },
   {
     "Stats": [
-      24720
+      24719
     ],
     "Sections": [
       {
@@ -3300,7 +3300,7 @@
   },
   {
     "Stats": [
-      24721
+      24720
     ],
     "Sections": [
       {
@@ -3438,7 +3438,7 @@
   },
   {
     "Stats": [
-      22554
+      22552
     ],
     "Sections": [
       {
@@ -3600,7 +3600,7 @@
   },
   {
     "Stats": [
-      24616
+      24615
     ],
     "Sections": [
       {
@@ -3940,7 +3940,7 @@
   },
   {
     "Stats": [
-      20229
+      20228
     ],
     "Sections": [
       {
@@ -5278,7 +5278,7 @@
   },
   {
     "Stats": [
-      20459
+      20457
     ],
     "Sections": [
       {
@@ -5744,7 +5744,7 @@
   },
   {
     "Stats": [
-      20271
+      20270
     ],
     "Sections": [
       {
@@ -5775,7 +5775,7 @@
   },
   {
     "Stats": [
-      20272
+      20271
     ],
     "Sections": [
       {
@@ -5956,7 +5956,7 @@
   },
   {
     "Stats": [
-      20255
+      20254
     ],
     "Sections": [
       {
@@ -6192,7 +6192,7 @@
   },
   {
     "Stats": [
-      20257
+      20256
     ],
     "Sections": [
       {
@@ -6254,7 +6254,7 @@
   },
   {
     "Stats": [
-      20256
+      20255
     ],
     "Sections": [
       {
@@ -6304,7 +6304,7 @@
   },
   {
     "Stats": [
-      20253
+      20252
     ],
     "Sections": [
       {
@@ -6354,7 +6354,7 @@
   },
   {
     "Stats": [
-      20260
+      20259
     ],
     "Sections": [
       {
@@ -6373,7 +6373,7 @@
   },
   {
     "Stats": [
-      21665
+      21663
     ],
     "Sections": [
       {
@@ -6566,7 +6566,7 @@
   },
   {
     "Stats": [
-      24759
+      24758
     ],
     "Sections": [
       {
@@ -6591,13 +6591,13 @@
         "StatConversionTypes": [
           "Negate"
         ],
-        "String": "{0}% increased [MonsterEffectiveness|Effectiveness] of [Rarity|Rare] [ContainsBreach|Breach] Monsters in your Maps"
+        "String": "{0}% reduced [MonsterEffectiveness|Effectiveness] of [Rarity|Rare] [ContainsBreach|Breach] Monsters in your Maps"
       }
     ]
   },
   {
     "Stats": [
-      24758
+      24757
     ],
     "Sections": [
       {
@@ -6616,7 +6616,7 @@
   },
   {
     "Stats": [
-      20457
+      20455
     ],
     "Sections": [
       {
@@ -6647,7 +6647,7 @@
   },
   {
     "Stats": [
-      20458
+      20456
     ],
     "Sections": [
       {
@@ -7314,7 +7314,7 @@
   },
   {
     "Stats": [
-      24718
+      24717
     ],
     "Sections": [
       {
@@ -7333,7 +7333,7 @@
   },
   {
     "Stats": [
-      24715
+      24714
     ],
     "Sections": [
       {
@@ -7390,7 +7390,7 @@
   },
   {
     "Stats": [
-      23067
+      23065
     ],
     "Sections": [
       {
@@ -7599,7 +7599,7 @@
   },
   {
     "Stats": [
-      24610
+      24609
     ],
     "Sections": [
       {
@@ -7624,7 +7624,7 @@
         "StatConversionTypes": [
           "Negate"
         ],
-        "String": "{0}% increased [MonsterEffectiveness|Effectiveness] of [MonsterCategory|Construct] Monsters in your Maps"
+        "String": "{0}% reduced [MonsterEffectiveness|Effectiveness] of [MonsterCategory|Construct] Monsters in your Maps"
       }
     ]
   },
@@ -8313,7 +8313,7 @@
   },
   {
     "Stats": [
-      21648
+      21646
     ],
     "Sections": [
       {
@@ -8344,7 +8344,7 @@
   },
   {
     "Stats": [
-      21649
+      21647
     ],
     "Sections": [
       {
@@ -8850,7 +8850,7 @@
   },
   {
     "Stats": [
-      20734
+      20732
     ],
     "Sections": [
       {
@@ -8943,7 +8943,7 @@
   },
   {
     "Stats": [
-      20735
+      20733
     ],
     "Sections": [
       {
@@ -8974,7 +8974,7 @@
   },
   {
     "Stats": [
-      20266
+      20265
     ],
     "Sections": [
       {
@@ -8993,7 +8993,7 @@
   },
   {
     "Stats": [
-      20713
+      20711
     ],
     "Sections": [
       {
@@ -9024,7 +9024,7 @@
   },
   {
     "Stats": [
-      20265
+      20264
     ],
     "Sections": [
       {
@@ -9990,7 +9990,7 @@
   },
   {
     "Stats": [
-      24825
+      24824
     ],
     "Sections": [
       {
@@ -10316,7 +10316,7 @@
   },
   {
     "Stats": [
-      21650
+      21648
     ],
     "Sections": [
       {
@@ -10347,7 +10347,7 @@
   },
   {
     "Stats": [
-      21651
+      21649
     ],
     "Sections": [
       {
@@ -10473,7 +10473,7 @@
   },
   {
     "Stats": [
-      21688
+      21686
     ],
     "Sections": [
       {
@@ -10492,7 +10492,7 @@
   },
   {
     "Stats": [
-      21689
+      21687
     ],
     "Sections": [
       {
@@ -10511,7 +10511,7 @@
   },
   {
     "Stats": [
-      24442
+      24441
     ],
     "Sections": [
       {
@@ -10542,7 +10542,7 @@
   },
   {
     "Stats": [
-      22982
+      22980
     ],
     "Sections": [
       {
@@ -10573,7 +10573,7 @@
   },
   {
     "Stats": [
-      21799
+      21797
     ],
     "Sections": [
       {
@@ -10604,7 +10604,7 @@
   },
   {
     "Stats": [
-      21802
+      21800
     ],
     "Sections": [
       {
@@ -10635,7 +10635,7 @@
   },
   {
     "Stats": [
-      21800
+      21798
     ],
     "Sections": [
       {
@@ -10666,7 +10666,7 @@
   },
   {
     "Stats": [
-      21798
+      21796
     ],
     "Sections": [
       {
@@ -10697,7 +10697,7 @@
   },
   {
     "Stats": [
-      21795
+      21793
     ],
     "Sections": [
       {
@@ -10747,7 +10747,7 @@
   },
   {
     "Stats": [
-      22911
+      22909
     ],
     "Sections": [
       {
@@ -10778,7 +10778,7 @@
   },
   {
     "Stats": [
-      21793
+      21791
     ],
     "Sections": [
       {
@@ -10809,7 +10809,7 @@
   },
   {
     "Stats": [
-      21794
+      21792
     ],
     "Sections": [
       {
@@ -10840,7 +10840,7 @@
   },
   {
     "Stats": [
-      21686
+      21684
     ],
     "Sections": [
       {
@@ -10871,7 +10871,7 @@
   },
   {
     "Stats": [
-      21791
+      21789
     ],
     "Sections": [
       {
@@ -10902,7 +10902,7 @@
   },
   {
     "Stats": [
-      21796
+      21794
     ],
     "Sections": [
       {
@@ -10933,7 +10933,7 @@
   },
   {
     "Stats": [
-      21792
+      21790
     ],
     "Sections": [
       {
@@ -11021,7 +11021,7 @@
   },
   {
     "Stats": [
-      21797
+      21795
     ],
     "Sections": [
       {
@@ -11052,7 +11052,7 @@
   },
   {
     "Stats": [
-      22983
+      22981
     ],
     "Sections": [
       {
@@ -11083,7 +11083,7 @@
   },
   {
     "Stats": [
-      21801
+      21799
     ],
     "Sections": [
       {
@@ -11207,7 +11207,7 @@
   },
   {
     "Stats": [
-      20454
+      20452
     ],
     "Sections": [
       {
@@ -11269,7 +11269,7 @@
   },
   {
     "Stats": [
-      22932
+      22930
     ],
     "Sections": [
       {
@@ -11500,7 +11500,7 @@
   },
   {
     "Stats": [
-      20668
+      20666
     ],
     "Sections": [
       {
@@ -11569,7 +11569,7 @@
   },
   {
     "Stats": [
-      20455
+      20453
     ],
     "Sections": [
       {
@@ -11600,7 +11600,7 @@
   },
   {
     "Stats": [
-      20456
+      20454
     ],
     "Sections": [
       {
@@ -11755,7 +11755,7 @@
   },
   {
     "Stats": [
-      20258
+      20257
     ],
     "Sections": [
       {
@@ -11848,7 +11848,7 @@
   },
   {
     "Stats": [
-      22529
+      22527
     ],
     "Sections": [
       {
@@ -12024,7 +12024,7 @@
   },
   {
     "Stats": [
-      20230
+      20229
     ],
     "Sections": [
       {
@@ -12455,7 +12455,7 @@
   },
   {
     "Stats": [
-      20226
+      20225
     ],
     "Sections": [
       {
@@ -12486,7 +12486,7 @@
   },
   {
     "Stats": [
-      19764
+      19763
     ],
     "Sections": [
       {
@@ -12517,7 +12517,7 @@
   },
   {
     "Stats": [
-      21652
+      21650
     ],
     "Sections": [
       {
@@ -12548,7 +12548,7 @@
   },
   {
     "Stats": [
-      21653
+      21651
     ],
     "Sections": [
       {
@@ -13841,7 +13841,7 @@
   },
   {
     "Stats": [
-      24606
+      24605
     ],
     "Sections": [
       {
@@ -13866,7 +13866,7 @@
         "StatConversionTypes": [
           "Negate"
         ],
-        "String": "{0}% increased [MonsterEffectiveness|Effectiveness] of [MonsterCategory|Humanoid] Monsters in your Maps"
+        "String": "{0}% reduced [MonsterEffectiveness|Effectiveness] of [MonsterCategory|Humanoid] Monsters in your Maps"
       }
     ]
   },
@@ -14141,7 +14141,7 @@
   },
   {
     "Stats": [
-      20228
+      20227
     ],
     "Sections": [
       {
@@ -14172,7 +14172,7 @@
   },
   {
     "Stats": [
-      20712
+      20710
     ],
     "Sections": [
       {
@@ -14997,7 +14997,7 @@
   },
   {
     "Stats": [
-      20254
+      20253
     ],
     "Sections": [
       {
@@ -15016,7 +15016,7 @@
   },
   {
     "Stats": [
-      19767
+      19766
     ],
     "Sections": [
       {
@@ -15066,7 +15066,7 @@
   },
   {
     "Stats": [
-      24716
+      24715
     ],
     "Sections": [
       {
@@ -15085,7 +15085,7 @@
   },
   {
     "Stats": [
-      24607
+      24606
     ],
     "Sections": [
       {
@@ -15110,7 +15110,7 @@
         "StatConversionTypes": [
           "Negate"
         ],
-        "String": "{0}% increased [MonsterEffectiveness|Effectiveness] of [Rarity|Magic] Monsters in your Maps"
+        "String": "{0}% reduced [MonsterEffectiveness|Effectiveness] of [Rarity|Magic] Monsters in your Maps"
       }
     ]
   },
@@ -15147,7 +15147,7 @@
   },
   {
     "Stats": [
-      22317
+      22315
     ],
     "Sections": [
       {
@@ -15235,7 +15235,7 @@
   },
   {
     "Stats": [
-      20710
+      20708
     ],
     "Sections": [
       {
@@ -16130,7 +16130,7 @@
   },
   {
     "Stats": [
-      21687
+      21685
     ],
     "Sections": [
       {
@@ -16211,7 +16211,7 @@
   },
   {
     "Stats": [
-      20218
+      20217
     ],
     "Sections": [
       {
@@ -16242,7 +16242,7 @@
   },
   {
     "Stats": [
-      20221
+      20220
     ],
     "Sections": [
       {
@@ -16273,7 +16273,7 @@
   },
   {
     "Stats": [
-      21685
+      21683
     ],
     "Sections": [
       {
@@ -16385,7 +16385,7 @@
   },
   {
     "Stats": [
-      21750
+      21748
     ],
     "Sections": [
       {
@@ -16416,7 +16416,7 @@
   },
   {
     "Stats": [
-      21751
+      21749
     ],
     "Sections": [
       {
@@ -16509,7 +16509,7 @@
   },
   {
     "Stats": [
-      24481
+      24480
     ],
     "Sections": [
       {
@@ -16534,7 +16534,7 @@
         "StatConversionTypes": [
           "Negate"
         ],
-        "String": "{0}% increased [MonsterEffectiveness|Effectiveness] of Monsters in your Maps"
+        "String": "{0}% reduced [MonsterEffectiveness|Effectiveness] of Monsters in your Maps"
       }
     ]
   },
@@ -16590,7 +16590,7 @@
   },
   {
     "Stats": [
-      20711
+      20709
     ],
     "Sections": [
       {
@@ -16621,7 +16621,7 @@
   },
   {
     "Stats": [
-      24705
+      24704
     ],
     "Sections": [
       {
@@ -16646,7 +16646,7 @@
         "StatConversionTypes": [
           "Negate"
         ],
-        "String": "{0}% increased [MonsterEffectiveness|Effectiveness] of [Rarity|Normal] Monsters in your Maps"
+        "String": "{0}% reduced [MonsterEffectiveness|Effectiveness] of [Rarity|Normal] Monsters in your Maps"
       }
     ]
   },
@@ -17305,7 +17305,7 @@
   },
   {
     "Stats": [
-      20795
+      20793
     ],
     "Sections": [
       {
@@ -17336,7 +17336,7 @@
   },
   {
     "Stats": [
-      20461
+      20459
     ],
     "Sections": [
       {
@@ -17355,7 +17355,7 @@
   },
   {
     "Stats": [
-      20465
+      20463
     ],
     "Sections": [
       {
@@ -17386,7 +17386,7 @@
   },
   {
     "Stats": [
-      20468
+      20466
     ],
     "Sections": [
       {
@@ -17417,7 +17417,7 @@
   },
   {
     "Stats": [
-      20464
+      20462
     ],
     "Sections": [
       {
@@ -17448,7 +17448,7 @@
   },
   {
     "Stats": [
-      20466
+      20464
     ],
     "Sections": [
       {
@@ -17479,7 +17479,7 @@
   },
   {
     "Stats": [
-      20467
+      20465
     ],
     "Sections": [
       {
@@ -17541,8 +17541,8 @@
   },
   {
     "Stats": [
-      21776,
-      21941
+      21774,
+      21939
     ],
     "Sections": [
       {
@@ -17762,7 +17762,7 @@
   },
   {
     "Stats": [
-      21786
+      21784
     ],
     "Sections": [
       {
@@ -17943,7 +17943,7 @@
   },
   {
     "Stats": [
-      19768
+      19767
     ],
     "Sections": [
       {
@@ -17993,7 +17993,7 @@
   },
   {
     "Stats": [
-      20241
+      20240
     ],
     "Sections": [
       {
@@ -18115,7 +18115,7 @@
   },
   {
     "Stats": [
-      24605
+      24604
     ],
     "Sections": [
       {
@@ -18140,7 +18140,7 @@
         "StatConversionTypes": [
           "Negate"
         ],
-        "String": "{0}% increased [MonsterEffectiveness|Effectiveness] of [Rarity|Rare] Monsters in your Maps"
+        "String": "{0}% reduced [MonsterEffectiveness|Effectiveness] of [Rarity|Rare] Monsters in your Maps"
       }
     ]
   },
@@ -18519,7 +18519,7 @@
   },
   {
     "Stats": [
-      20261
+      20260
     ],
     "Sections": [
       {
@@ -18550,7 +18550,7 @@
   },
   {
     "Stats": [
-      20660
+      20658
     ],
     "Sections": [
       {
@@ -18569,7 +18569,7 @@
   },
   {
     "Stats": [
-      20661
+      20659
     ],
     "Sections": [
       {
@@ -18650,8 +18650,8 @@
   },
   {
     "Stats": [
-      20263,
-      20688
+      20262,
+      20686
     ],
     "Sections": [
       {
@@ -18725,7 +18725,7 @@
   },
   {
     "Stats": [
-      20657
+      20655
     ],
     "Sections": [
       {
@@ -18794,7 +18794,7 @@
   },
   {
     "Stats": [
-      20262
+      20261
     ],
     "Sections": [
       {
@@ -18882,7 +18882,7 @@
   },
   {
     "Stats": [
-      20659
+      20657
     ],
     "Sections": [
       {
@@ -18932,7 +18932,7 @@
   },
   {
     "Stats": [
-      20658
+      20656
     ],
     "Sections": [
       {
@@ -19056,7 +19056,7 @@
   },
   {
     "Stats": [
-      20656
+      20654
     ],
     "Sections": [
       {
@@ -19087,7 +19087,7 @@
   },
   {
     "Stats": [
-      21705
+      21703
     ],
     "Sections": [
       {
@@ -19137,7 +19137,7 @@
   },
   {
     "Stats": [
-      21712
+      21710
     ],
     "Sections": [
       {
@@ -19168,7 +19168,7 @@
   },
   {
     "Stats": [
-      21714
+      21712
     ],
     "Sections": [
       {
@@ -19199,7 +19199,7 @@
   },
   {
     "Stats": [
-      21716
+      21714
     ],
     "Sections": [
       {
@@ -19230,7 +19230,7 @@
   },
   {
     "Stats": [
-      21713
+      21711
     ],
     "Sections": [
       {
@@ -19261,7 +19261,7 @@
   },
   {
     "Stats": [
-      21707
+      21705
     ],
     "Sections": [
       {
@@ -19280,7 +19280,7 @@
   },
   {
     "Stats": [
-      21708
+      21706
     ],
     "Sections": [
       {
@@ -19299,7 +19299,7 @@
   },
   {
     "Stats": [
-      21706
+      21704
     ],
     "Sections": [
       {
@@ -19318,7 +19318,7 @@
   },
   {
     "Stats": [
-      21715
+      21713
     ],
     "Sections": [
       {
@@ -19349,7 +19349,7 @@
   },
   {
     "Stats": [
-      21710
+      21708
     ],
     "Sections": [
       {
@@ -19380,7 +19380,7 @@
   },
   {
     "Stats": [
-      21711
+      21709
     ],
     "Sections": [
       {
@@ -19411,7 +19411,7 @@
   },
   {
     "Stats": [
-      21709
+      21707
     ],
     "Sections": [
       {
@@ -19686,7 +19686,7 @@
   },
   {
     "Stats": [
-      21789
+      21787
     ],
     "Sections": [
       {
@@ -19717,7 +19717,7 @@
   },
   {
     "Stats": [
-      20225
+      20224
     ],
     "Sections": [
       {
@@ -20053,7 +20053,7 @@
   },
   {
     "Stats": [
-      21654
+      21652
     ],
     "Sections": [
       {
@@ -20179,7 +20179,7 @@
   },
   {
     "Stats": [
-      21646
+      21644
     ],
     "Sections": [
       {
@@ -20210,7 +20210,7 @@
   },
   {
     "Stats": [
-      21647
+      21645
     ],
     "Sections": [
       {
@@ -20241,7 +20241,7 @@
   },
   {
     "Stats": [
-      20251
+      20250
     ],
     "Sections": [
       {
@@ -20317,7 +20317,7 @@
   },
   {
     "Stats": [
-      20227
+      20226
     ],
     "Sections": [
       {
@@ -20523,7 +20523,7 @@
   },
   {
     "Stats": [
-      21726
+      21724
     ],
     "Sections": [
       {
@@ -20604,7 +20604,7 @@
   },
   {
     "Stats": [
-      20219
+      20218
     ],
     "Sections": [
       {
@@ -20623,7 +20623,7 @@
   },
   {
     "Stats": [
-      21729
+      21727
     ],
     "Sections": [
       {
@@ -20654,7 +20654,7 @@
   },
   {
     "Stats": [
-      21727
+      21725
     ],
     "Sections": [
       {
@@ -20685,7 +20685,7 @@
   },
   {
     "Stats": [
-      21728
+      21726
     ],
     "Sections": [
       {
@@ -20792,7 +20792,7 @@
   },
   {
     "Stats": [
-      22064
+      22062
     ],
     "Sections": [
       {
@@ -21582,7 +21582,7 @@
   },
   {
     "Stats": [
-      21747
+      21745
     ],
     "Sections": [
       {
@@ -21613,7 +21613,7 @@
   },
   {
     "Stats": [
-      21752
+      21750
     ],
     "Sections": [
       {
@@ -21644,7 +21644,7 @@
   },
   {
     "Stats": [
-      21749
+      21747
     ],
     "Sections": [
       {
@@ -21706,7 +21706,7 @@
   },
   {
     "Stats": [
-      21756
+      21754
     ],
     "Sections": [
       {
@@ -21725,7 +21725,7 @@
   },
   {
     "Stats": [
-      21748
+      21746
     ],
     "Sections": [
       {
@@ -21756,7 +21756,7 @@
   },
   {
     "Stats": [
-      22063
+      22061
     ],
     "Sections": [
       {
@@ -21787,7 +21787,7 @@
   },
   {
     "Stats": [
-      20293
+      20292
     ],
     "Sections": [
       {
@@ -21932,7 +21932,7 @@
   },
   {
     "Stats": [
-      19989
+      19988
     ],
     "Sections": [
       {
@@ -21963,7 +21963,7 @@
   },
   {
     "Stats": [
-      24608
+      24607
     ],
     "Sections": [
       {
@@ -21988,7 +21988,7 @@
         "StatConversionTypes": [
           "Negate"
         ],
-        "String": "{0}% increased [MonsterEffectiveness|Effectiveness] of [Rarity|Unique] Monsters in your Maps"
+        "String": "{0}% reduced [MonsterEffectiveness|Effectiveness] of [Rarity|Unique] Monsters in your Maps"
       }
     ]
   },
@@ -22132,7 +22132,7 @@
   },
   {
     "Stats": [
-      21788
+      21786
     ],
     "Sections": [
       {
@@ -22163,7 +22163,7 @@
   },
   {
     "Stats": [
-      20252
+      20251
     ],
     "Sections": [
       {
@@ -22220,7 +22220,7 @@
   },
   {
     "Stats": [
-      20264
+      20263
     ],
     "Sections": [
       {
@@ -22320,7 +22320,7 @@
   },
   {
     "Stats": [
-      21787
+      21785
     ],
     "Sections": [
       {
@@ -22477,7 +22477,7 @@
   },
   {
     "Stats": [
-      20460
+      20458
     ],
     "Sections": [
       {
@@ -22508,7 +22508,7 @@
   },
   {
     "Stats": [
-      20270
+      20269
     ],
     "Sections": [
       {
@@ -22527,7 +22527,7 @@
   },
   {
     "Stats": [
-      20269
+      20268
     ],
     "Sections": [
       {
@@ -22558,7 +22558,7 @@
   },
   {
     "Stats": [
-      20268
+      20267
     ],
     "Sections": [
       {
@@ -22589,7 +22589,7 @@
   },
   {
     "Stats": [
-      22097
+      22095
     ],
     "Sections": [
       {
@@ -22620,7 +22620,7 @@
   },
   {
     "Stats": [
-      20267
+      20266
     ],
     "Sections": [
       {
@@ -23034,7 +23034,7 @@
   },
   {
     "Stats": [
-      20223
+      20222
     ],
     "Sections": [
       {
@@ -23122,7 +23122,7 @@
   },
   {
     "Stats": [
-      20222
+      20221
     ],
     "Sections": [
       {
@@ -23184,7 +23184,7 @@
   },
   {
     "Stats": [
-      20217
+      20216
     ],
     "Sections": [
       {
@@ -23215,7 +23215,7 @@
   },
   {
     "Stats": [
-      20220
+      20219
     ],
     "Sections": [
       {
@@ -23234,7 +23234,7 @@
   },
   {
     "Stats": [
-      24485
+      24484
     ],
     "Sections": [
       {
