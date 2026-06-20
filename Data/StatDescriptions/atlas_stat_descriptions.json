@@ -439,6 +439,25 @@
   },
   {
     "Stats": [
+      24502
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Explicit Modifiers on your [Waystone|Waystones] apply to [ContainsAbyss|Abyssal] Depths in the Map area"
+      }
+    ]
+  },
+  {
+    "Stats": [
       14801
     ],
     "Sections": [
@@ -1038,6 +1057,25 @@
           "Negate"
         ],
         "String": "{0}% reduced effect of Modifiers on your Blighted Maps"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27031
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "All Monsters spawned in [Breach] Hives are at least Magic"
       }
     ]
   },
@@ -2992,6 +3030,63 @@
   },
   {
     "Stats": [
+      27074
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[AbyssAugment|Abyss Tablets] also grant Abyssal Depths {0}% increased chance for Monsters to have [AbyssalModifiers|Abyssal Modifiers]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27075
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[AbyssAugment|Abyss Tablets] also grant Abyssal Depths {0}% increased chance for Monsters to have Lichborn Modifiers"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27073
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[AbyssAugment|Abyss Tablets] also grant Abyssal Depths {0}% increased Pack Size"
+      }
+    ]
+  },
+  {
+    "Stats": [
       12755
     ],
     "Sections": [
@@ -4496,7 +4591,7 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "[Delirious|Delirium] in your Maps increases {0}% faster with distance from the mirror"
+        "String": "[ContainsDelirium|Delirium] Fog in your Maps applies {0}% increased [Delirious|Deliriousness] to Players"
       },
       {
         "StatRanges": [
@@ -4508,7 +4603,7 @@
         "StatConversionTypes": [
           "Negate"
         ],
-        "String": "[Delirious|Delirium] in your Maps increases {0}% slower with distance from the mirror"
+        "String": "[ContainsDelirium|Delirium] Fog in your Maps applies {0}% reduced [Delirious|Deliriousness] to Players"
       }
     ]
   },
@@ -4947,25 +5042,6 @@
           "DivideByTen1dp"
         ],
         "String": "{0}% chance for Amulets to drop as Anointed Talismans instead in your Maps"
-      }
-    ]
-  },
-  {
-    "Stats": [
-      24502
-    ],
-    "Sections": [
-      {
-        "StatRanges": [
-          {
-            "Item1": -2147483648,
-            "Item2": 2147483647
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Explicit Modifiers on your [Waystone|Waystones] apply to [ContainsAbyss|Abyssal] Depths in the Map area"
       }
     ]
   },
@@ -12625,7 +12701,7 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "{0}% chance for an additional Simulacrum when [ContainsDelirium|Delirium Fog] is spread from [DeliriumGigaMirror|Grand Mirrors]"
+        "String": "{0}% chance an additional Simulacrum is transformed when [ContainsDelirium|Delirium Fog] reaches 100% [Delirious|Deliriousness]"
       }
     ]
   },
@@ -12714,6 +12790,25 @@
           "NoFunction"
         ],
         "String": "[Tablet|Tablets] have double Effect in areas with a [DeliriumGigaMirror|Grand Mirror]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27016
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Areas with [DeliriumGigaMirror|Grand Mirrors] also have a [ContainsDelirium|Delirium Mirror]"
       }
     ]
   },
@@ -19202,6 +19297,37 @@
           "NoFunction"
         ],
         "String": "[IncursionRestrictedRoom|Restricted Rooms] have {0}% chance to contain additional chests or drop additional items"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27032
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 100,
+            "Item2": 100
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "A [Rarity|Rare] or Unique Monster in the Area is [CorruptedMonster|Corrupted] when [ContainsIncursion|Vaal Beacons] are activated"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0} chance a [Rarity|Rare] or Unique Monster in the Area is [CorruptedMonster|Corrupted] when [ContainsIncursion|Vaal Beacons] are activated"
       }
     ]
   },
@@ -29310,6 +29436,25 @@
   },
   {
     "Stats": [
+      27038
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Simulacrums now spawn Shards between Waves, allowing a single selection:\n- [DeliriumEscalatingThreats|Escalating Threats]\n- [DeliriumApexPredators|Apex Predators]\n- [DeliriumPureEmotions|Pure Emotions]"
+      }
+    ]
+  },
+  {
+    "Stats": [
       20131
     ],
     "Sections": [
@@ -34255,6 +34400,25 @@
           "NoFunction"
         ],
         "String": "{0} uses remaining"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27028
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance Shards within Simulacrums allow multiple selections"
       }
     ]
   },

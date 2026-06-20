@@ -102713,6 +102713,101 @@
   },
   {
     "Stats": [
+      27049
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Targets affected by [AbyssalWasting|Abyssal Wasting] you inflict are [Blind|Blinded]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27047
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Targets affected by [AbyssalWasting|Abyssal Wasting] you inflict are [Debilitate|Debilitated]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27048
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Targets affected by [AbyssalWasting|Abyssal Wasting] you inflict are [Hinder|Hindered]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27046
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[AbyssalWasting|Abyssal Wasting] you inflict also prevents targets from inflicting [ElementalAilments|Elemental Ailments]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27045
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[AbyssalWasting|Abyssal Wasting] you inflict also prevents targets from dealing [Critical|Critical Hits]"
+      }
+    ]
+  },
+  {
+    "Stats": [
       22781
     ],
     "Sections": [
@@ -136678,6 +136773,25 @@
   },
   {
     "Stats": [
+      27053
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to inflict [Withered] with [HitDamage|Hits] against targets affected by [AbyssalWasting|Abyssal Wasting]"
+      }
+    ]
+  },
+  {
+    "Stats": [
       10789
     ],
     "Sections": [
@@ -156282,6 +156396,25 @@
   },
   {
     "Stats": [
+      27062
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "[AbyssalWasting|Abyssal Wasting] you inflict also gives targets 10% chance to explode on death, dealing a tenth of their life as Physical Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
       8364
     ],
     "Sections": [
@@ -156903,6 +157036,25 @@
   },
   {
     "Stats": [
+      27056
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Targets affected by [AbyssalWasting|Abyssal Wasting] in your [Presence] have double [Power]"
+      }
+    ]
+  },
+  {
+    "Stats": [
       23595
     ],
     "Sections": [
@@ -156948,6 +157100,101 @@
           "NoFunction"
         ],
         "String": "Enemies on Fungal Ground you Kill Explode, dealing 5% of their Life as Chaos Damage"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27058
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Enemies you kill while they are affected by [AbyssalWasting|Abyssal Wasting]\n grant {0}% increased Flask Charges"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27060
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Gain {0} [Rage] when you kill an enemy affected by [AbyssalWasting|Abyssal Wasting]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27059
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Gain {0} [Volatility] when you kill an enemy affected by [AbyssalWasting|Abyssal Wasting]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27061
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to gain Onslaught for 3 seconds when you kill an\n enemy affected by [AbyssalWasting|Abyssal Wasting]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27057
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% chance to revive one of your [Persistent] [Minion|Minions] when you kill an\n enemy affected by [AbyssalWasting|Abyssal Wasting]"
       }
     ]
   },
@@ -179892,6 +180139,25 @@
   },
   {
     "Stats": [
+      27052
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "{0}% increased [Immobilised|Immobilisation] buildup against targets affected by [AbyssalWasting|Abyssal Wasting]"
+      }
+    ]
+  },
+  {
+    "Stats": [
       9230
     ],
     "Sections": [
@@ -198719,7 +198985,7 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "[Delirious|Delirium] in Area increases {0}% faster with distance from the mirror"
+        "String": "[ContainsDelirium|Delirium] Fog in Area applies {0}% increased [Delirious|Deliriousness] to Players"
       },
       {
         "StatRanges": [
@@ -198731,7 +198997,7 @@
         "StatConversionTypes": [
           "Negate"
         ],
-        "String": "[Delirious|Delirium] in Area increases {0}% slower with distance from the mirror"
+        "String": "[ContainsDelirium|Delirium] Fog in Area applies {0}% reduced [Delirious|Deliriousness] to Players"
       }
     ]
   },
@@ -200767,6 +201033,63 @@
           "NoFunction"
         ],
         "String": "Breaches in Area spawn {0} additional Rare Monsters"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27036
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Ailith can create the [BreachHiveMonsterPotencySkill|Xesht's Fervour] skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27037
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Ailith can create the [BreachHiveAdditionalRarePackSkill|Otherworldly Nemesis] skill"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      27039
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "Ailith can create the [BreachHiveMonsterUpgradeSkill|Dreamer's Sight] skill"
       }
     ]
   },
