@@ -1,2 +1,4 @@
 Logs/*
 lic.dat
+*.json
+*.ini
