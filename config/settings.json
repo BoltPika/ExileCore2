@@ -107,7 +107,7 @@
     },
     "NotificationSettings": {
       "Show": {
-        "Value": true,
+        "Value": false,
         "AttachedHotkey": {
           "ValueV2": {
             "ControllerKey": "None",
@@ -293,10 +293,12 @@
               {
                 "Value": 16
               }
-            ]
+            ],
+            "Count": 1
           }
         }
-      ]
+      ],
+      "Count": 1
     },
     "MainFont": {
       "Value": "unifont:16"
@@ -420,7 +422,7 @@
     }
   },
   "Enable": {
-    "Value": true,
+    "Value": false,
     "AttachedHotkey": {
       "ValueV2": {
         "ControllerKey": "None",
