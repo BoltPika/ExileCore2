@@ -1,7 +1,7 @@
 [
   {
     "Stats": [
-      952
+      954
     ],
     "Sections": [
       {
@@ -20,7 +20,7 @@
   },
   {
     "Stats": [
-      9904
+      9879
     ],
     "Sections": [
       {
@@ -51,7 +51,7 @@
   },
   {
     "Stats": [
-      6576
+      6561
     ],
     "Sections": [
       {
@@ -70,7 +70,7 @@
   },
   {
     "Stats": [
-      4806
+      4795
     ],
     "Sections": [
       {
@@ -89,7 +89,7 @@
   },
   {
     "Stats": [
-      5678
+      5666
     ],
     "Sections": [
       {
@@ -102,13 +102,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "[DamageTypes|All Damage] from Monsters' [HitDamage|Hits] [Contributes|Contributes] to [Poison] Magnitude"
+        "String": "[DamageTypes|All Damage] from Monsters' [Hit|Hits] [Contributes|Contributes] to [Poison] Magnitude"
       }
     ]
   },
   {
     "Stats": [
-      4805
+      4794
     ],
     "Sections": [
       {
@@ -121,13 +121,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "All Damage from Monsters' [HitDamage|Hits] can [Shock]"
+        "String": "All Damage from Monsters' [Hit|Hits] can [Shock]"
       }
     ]
   },
   {
     "Stats": [
-      339
+      340
     ],
     "Sections": [
       {
@@ -140,13 +140,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "Monsters' [HitDamage|Hits] are always [Critical|Critical Hits]"
+        "String": "Monsters' [Hit|Hits] are always [Critical|Critical Hits]"
       }
     ]
   },
   {
     "Stats": [
-      2466
+      2462
     ],
     "Sections": [
       {
@@ -159,7 +159,7 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "[Runic] Monsters apply a random [Curse] on [HitDamage|Hit]"
+        "String": "[Runic] Monsters apply a random [Curse] on [Hit]"
       },
       {
         "StatRanges": [
@@ -171,13 +171,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "[Runic] Monsters apply {0} random [Curse] on [HitDamage|Hit]"
+        "String": "[Runic] Monsters apply {0} random [Curse] on [Hit]"
       }
     ]
   },
   {
     "Stats": [
-      13628
+      13554
     ],
     "Sections": [
       {
@@ -196,7 +196,7 @@
   },
   {
     "Stats": [
-      13629
+      13555
     ],
     "Sections": [
       {
@@ -209,13 +209,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "[Runic] Monsters inflict [Petrify|Petrification] for {0} seconds on [HitDamage|Hit]"
+        "String": "[Runic] Monsters inflict [Petrify|Petrification] for {0} seconds on [Hit]"
       }
     ]
   },
   {
     "Stats": [
-      19522
+      19406
     ],
     "Sections": [
       {
@@ -228,13 +228,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "Monsters' [HitDamage|Hits] [ArmourBreak|Break Armour] equal to {0}% of [Physical|Physical Damage] dealt"
+        "String": "Monsters' [Hit|Hits] [ArmourBreak|Break Armour] equal to {0}% of [Physical|Physical Damage] dealt"
       }
     ]
   },
   {
     "Stats": [
-      574
+      578
     ],
     "Sections": [
       {
@@ -265,7 +265,7 @@
   },
   {
     "Stats": [
-      7929
+      7912
     ],
     "Sections": [
       {
@@ -296,7 +296,7 @@
   },
   {
     "Stats": [
-      6944
+      6929
     ],
     "Sections": [
       {
@@ -309,26 +309,7 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "Monsters have {0}% chance to Avoid All Damage from [HitDamage|Hits]"
-      }
-    ]
-  },
-  {
-    "Stats": [
-      186
-    ],
-    "Sections": [
-      {
-        "StatRanges": [
-          {
-            "Item1": 1,
-            "Item2": 2147483647
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Monsters have {0}% chance to Avoid being [Chill|Chilled]"
+        "String": "Monsters have {0}% chance to Avoid All Damage from [Hit|Hits]"
       }
     ]
   },
@@ -347,7 +328,7 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "Monsters have {0}% chance to Avoid being [Freeze|Frozen]"
+        "String": "Monsters have {0}% chance to Avoid being [Chill|Chilled]"
       }
     ]
   },
@@ -366,7 +347,7 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "Monsters have {0}% chance to Avoid being [Ignite|Ignited]"
+        "String": "Monsters have {0}% chance to Avoid being [Freeze|Frozen]"
       }
     ]
   },
@@ -385,13 +366,32 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
+        "String": "Monsters have {0}% chance to Avoid being [Ignite|Ignited]"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      190
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
         "String": "Monsters have {0}% chance to Avoid being [Shock|Shocked]"
       }
     ]
   },
   {
     "Stats": [
-      5145
+      5134
     ],
     "Sections": [
       {
@@ -422,8 +422,8 @@
   },
   {
     "Stats": [
-      442,
-      194
+      446,
+      195
     ],
     "Sections": [
       {
@@ -481,7 +481,7 @@
   },
   {
     "Stats": [
-      648
+      652
     ],
     "Sections": [
       {
@@ -512,7 +512,7 @@
   },
   {
     "Stats": [
-      4284
+      4273
     ],
     "Sections": [
       {
@@ -531,7 +531,7 @@
   },
   {
     "Stats": [
-      464
+      468
     ],
     "Sections": [
       {
@@ -562,7 +562,7 @@
   },
   {
     "Stats": [
-      3983
+      3979
     ],
     "Sections": [
       {
@@ -581,7 +581,7 @@
   },
   {
     "Stats": [
-      4285
+      4274
     ],
     "Sections": [
       {
@@ -600,7 +600,7 @@
   },
   {
     "Stats": [
-      3252
+      3249
     ],
     "Sections": [
       {
@@ -631,7 +631,7 @@
   },
   {
     "Stats": [
-      581
+      585
     ],
     "Sections": [
       {
@@ -650,7 +650,7 @@
   },
   {
     "Stats": [
-      580
+      584
     ],
     "Sections": [
       {
@@ -669,7 +669,7 @@
   },
   {
     "Stats": [
-      582
+      586
     ],
     "Sections": [
       {
@@ -688,9 +688,9 @@
   },
   {
     "Stats": [
-      3488,
-      2313,
-      2626
+      3484,
+      2312,
+      2622
     ],
     "Sections": [
       {
@@ -823,7 +823,7 @@
   },
   {
     "Stats": [
-      572
+      576
     ],
     "Sections": [
       {
@@ -854,7 +854,7 @@
   },
   {
     "Stats": [
-      707
+      711
     ],
     "Sections": [
       {
@@ -873,7 +873,7 @@
   },
   {
     "Stats": [
-      3960
+      3956
     ],
     "Sections": [
       {
@@ -904,7 +904,7 @@
   },
   {
     "Stats": [
-      570
+      574
     ],
     "Sections": [
       {
@@ -935,7 +935,7 @@
   },
   {
     "Stats": [
-      10088
+      10063
     ],
     "Sections": [
       {
@@ -954,7 +954,7 @@
   },
   {
     "Stats": [
-      198
+      199
     ],
     "Sections": [
       {
@@ -985,7 +985,7 @@
   },
   {
     "Stats": [
-      696
+      700
     ],
     "Sections": [
       {
@@ -998,13 +998,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "Monsters' [HitDamage|Hits] can't be [Evasion|Evaded]"
+        "String": "Monsters' [Hit|Hits] can't be [Evasion|Evaded]"
       }
     ]
   },
   {
     "Stats": [
-      2257
+      2256
     ],
     "Sections": [
       {
@@ -1017,13 +1017,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "Monsters [Poison] on [HitDamage|Hit]"
+        "String": "Monsters [Poison] on [Hit]"
       }
     ]
   },
   {
     "Stats": [
-      3978
+      3974
     ],
     "Sections": [
       {
@@ -1042,7 +1042,7 @@
   },
   {
     "Stats": [
-      4486
+      4476
     ],
     "Sections": [
       {
@@ -1061,7 +1061,7 @@
   },
   {
     "Stats": [
-      18182
+      18071
     ],
     "Sections": [
       {
@@ -1092,7 +1092,7 @@
   },
   {
     "Stats": [
-      17989
+      17878
     ],
     "Sections": [
       {
@@ -1123,7 +1123,7 @@
   },
   {
     "Stats": [
-      199
+      200
     ],
     "Sections": [
       {
@@ -1154,7 +1154,7 @@
   },
   {
     "Stats": [
-      770
+      774
     ],
     "Sections": [
       {
@@ -1173,7 +1173,7 @@
   },
   {
     "Stats": [
-      7951
+      7934
     ],
     "Sections": [
       {
@@ -1204,7 +1204,7 @@
   },
   {
     "Stats": [
-      4514
+      4504
     ],
     "Sections": [
       {
@@ -1217,13 +1217,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "Monsters kill things with 20% or lower Life on [HitDamage|Hit]"
+        "String": "Monsters kill things with 20% or lower Life on [Hit]"
       }
     ]
   },
   {
     "Stats": [
-      478
+      482
     ],
     "Sections": [
       {
@@ -1242,7 +1242,7 @@
   },
   {
     "Stats": [
-      1086
+      1087
     ],
     "Sections": [
       {
@@ -1292,26 +1292,7 @@
   },
   {
     "Stats": [
-      13625
-    ],
-    "Sections": [
-      {
-        "StatRanges": [
-          {
-            "Item1": -2147483648,
-            "Item2": 2147483647
-          }
-        ],
-        "StatConversionTypes": [
-          "NoFunction"
-        ],
-        "String": "Monsters have base Ward equal to {0}% of their maximum Life"
-      }
-    ]
-  },
-  {
-    "Stats": [
-      4366
+      4355
     ],
     "Sections": [
       {
@@ -1361,7 +1342,7 @@
   },
   {
     "Stats": [
-      172
+      173
     ],
     "Sections": [
       {
@@ -1423,7 +1404,7 @@
   },
   {
     "Stats": [
-      213
+      214
     ],
     "Sections": [
       {
@@ -1454,7 +1435,7 @@
   },
   {
     "Stats": [
-      795
+      799
     ],
     "Sections": [
       {
@@ -1485,7 +1466,7 @@
   },
   {
     "Stats": [
-      2490
+      2486
     ],
     "Sections": [
       {
@@ -1498,13 +1479,13 @@
         "StatConversionTypes": [
           "NoFunction"
         ],
-        "String": "[HitDamage|Hits] against Monsters cannot be [Critical|Critical Hits]"
+        "String": "[Hit|Hits] against Monsters cannot be [Critical|Critical Hits]"
       }
     ]
   },
   {
     "Stats": [
-      17868
+      17758
     ],
     "Sections": [
       {
@@ -1523,7 +1504,7 @@
   },
   {
     "Stats": [
-      17866
+      17756
     ],
     "Sections": [
       {
@@ -1542,7 +1523,7 @@
   },
   {
     "Stats": [
-      17865
+      17755
     ],
     "Sections": [
       {
@@ -1561,7 +1542,7 @@
   },
   {
     "Stats": [
-      17867
+      17757
     ],
     "Sections": [
       {
@@ -1580,7 +1561,7 @@
   },
   {
     "Stats": [
-      436
+      440
     ],
     "Sections": [
       {
@@ -1599,7 +1580,7 @@
   },
   {
     "Stats": [
-      728
+      732
     ],
     "Sections": [
       {
@@ -1618,7 +1599,7 @@
   },
   {
     "Stats": [
-      584
+      588
     ],
     "Sections": [
       {
@@ -1637,7 +1618,7 @@
   },
   {
     "Stats": [
-      13627
+      13553
     ],
     "Sections": [
       {
@@ -1656,7 +1637,7 @@
   },
   {
     "Stats": [
-      13626
+      13552
     ],
     "Sections": [
       {
@@ -1675,7 +1656,7 @@
   },
   {
     "Stats": [
-      7187
+      7170
     ],
     "Sections": [
       {
@@ -1694,7 +1675,7 @@
   },
   {
     "Stats": [
-      17990
+      17879
     ],
     "Sections": [
       {
@@ -1725,7 +1706,7 @@
   },
   {
     "Stats": [
-      3422
+      3419
     ],
     "Sections": [
       {
@@ -1756,7 +1737,7 @@
   },
   {
     "Stats": [
-      147
+      148
     ],
     "Sections": [
       {
@@ -1787,7 +1768,7 @@
   },
   {
     "Stats": [
-      13312
+      13271
     ],
     "Sections": [
       {
@@ -1818,7 +1799,7 @@
   },
   {
     "Stats": [
-      13631
+      13557
     ],
     "Sections": [
       {
@@ -1849,7 +1830,7 @@
   },
   {
     "Stats": [
-      13633
+      13559
     ],
     "Sections": [
       {
@@ -1880,7 +1861,7 @@
   },
   {
     "Stats": [
-      13658
+      13584
     ],
     "Sections": [
       {
@@ -1911,7 +1892,7 @@
   },
   {
     "Stats": [
-      13696
+      13622
     ],
     "Sections": [
       {
@@ -1942,7 +1923,7 @@
   },
   {
     "Stats": [
-      13700
+      13626
     ],
     "Sections": [
       {
@@ -1973,7 +1954,7 @@
   },
   {
     "Stats": [
-      13694
+      13620
     ],
     "Sections": [
       {
@@ -2004,7 +1985,7 @@
   },
   {
     "Stats": [
-      13654
+      13580
     ],
     "Sections": [
       {
@@ -2035,7 +2016,7 @@
   },
   {
     "Stats": [
-      13702
+      13628
     ],
     "Sections": [
       {
@@ -2066,7 +2047,7 @@
   },
   {
     "Stats": [
-      13656
+      13582
     ],
     "Sections": [
       {
@@ -2097,7 +2078,7 @@
   },
   {
     "Stats": [
-      13653
+      13579
     ],
     "Sections": [
       {
@@ -2128,7 +2109,7 @@
   },
   {
     "Stats": [
-      13695
+      13621
     ],
     "Sections": [
       {
@@ -2159,7 +2140,7 @@
   },
   {
     "Stats": [
-      13697
+      13623
     ],
     "Sections": [
       {
@@ -2190,7 +2171,7 @@
   },
   {
     "Stats": [
-      13683
+      13609
     ],
     "Sections": [
       {
@@ -2221,7 +2202,7 @@
   },
   {
     "Stats": [
-      13652
+      13578
     ],
     "Sections": [
       {
@@ -2252,7 +2233,7 @@
   },
   {
     "Stats": [
-      13660
+      13586
     ],
     "Sections": [
       {
@@ -2283,7 +2264,7 @@
   },
   {
     "Stats": [
-      13693
+      13619
     ],
     "Sections": [
       {
@@ -2314,7 +2295,7 @@
   },
   {
     "Stats": [
-      13703
+      13629
     ],
     "Sections": [
       {
@@ -2345,7 +2326,7 @@
   },
   {
     "Stats": [
-      13655
+      13581
     ],
     "Sections": [
       {
@@ -2376,7 +2357,7 @@
   },
   {
     "Stats": [
-      13681
+      13607
     ],
     "Sections": [
       {
@@ -2407,7 +2388,7 @@
   },
   {
     "Stats": [
-      13699
+      13625
     ],
     "Sections": [
       {
@@ -2438,7 +2419,7 @@
   },
   {
     "Stats": [
-      13651
+      13577
     ],
     "Sections": [
       {
@@ -2469,7 +2450,7 @@
   },
   {
     "Stats": [
-      13701
+      13627
     ],
     "Sections": [
       {
@@ -2500,7 +2481,7 @@
   },
   {
     "Stats": [
-      13690
+      13616
     ],
     "Sections": [
       {
@@ -2531,7 +2512,7 @@
   },
   {
     "Stats": [
-      13691
+      13617
     ],
     "Sections": [
       {
@@ -2562,7 +2543,7 @@
   },
   {
     "Stats": [
-      13692
+      13618
     ],
     "Sections": [
       {
@@ -2593,7 +2574,7 @@
   },
   {
     "Stats": [
-      13657
+      13583
     ],
     "Sections": [
       {
@@ -2624,7 +2605,7 @@
   },
   {
     "Stats": [
-      13698
+      13624
     ],
     "Sections": [
       {
@@ -2655,7 +2636,7 @@
   },
   {
     "Stats": [
-      13661
+      13587
     ],
     "Sections": [
       {
@@ -2686,7 +2667,7 @@
   },
   {
     "Stats": [
-      13659
+      13585
     ],
     "Sections": [
       {
@@ -2717,7 +2698,7 @@
   },
   {
     "Stats": [
-      13686
+      13612
     ],
     "Sections": [
       {
@@ -2748,7 +2729,7 @@
   },
   {
     "Stats": [
-      13687
+      13613
     ],
     "Sections": [
       {
@@ -2779,7 +2760,7 @@
   },
   {
     "Stats": [
-      13688
+      13614
     ],
     "Sections": [
       {
@@ -2810,7 +2791,7 @@
   },
   {
     "Stats": [
-      13689
+      13615
     ],
     "Sections": [
       {
@@ -2841,7 +2822,7 @@
   },
   {
     "Stats": [
-      13647
+      13573
     ],
     "Sections": [
       {
@@ -2872,7 +2853,7 @@
   },
   {
     "Stats": [
-      13669
+      13595
     ],
     "Sections": [
       {
@@ -2903,7 +2884,7 @@
   },
   {
     "Stats": [
-      13673
+      13599
     ],
     "Sections": [
       {
@@ -2934,7 +2915,7 @@
   },
   {
     "Stats": [
-      13667
+      13593
     ],
     "Sections": [
       {
@@ -2965,7 +2946,7 @@
   },
   {
     "Stats": [
-      8479
+      8464
     ],
     "Sections": [
       {
@@ -2996,7 +2977,7 @@
   },
   {
     "Stats": [
-      13643
+      13569
     ],
     "Sections": [
       {
@@ -3027,7 +3008,7 @@
   },
   {
     "Stats": [
-      13675
+      13601
     ],
     "Sections": [
       {
@@ -3058,7 +3039,7 @@
   },
   {
     "Stats": [
-      13645
+      13571
     ],
     "Sections": [
       {
@@ -3089,7 +3070,7 @@
   },
   {
     "Stats": [
-      13642
+      13568
     ],
     "Sections": [
       {
@@ -3120,7 +3101,7 @@
   },
   {
     "Stats": [
-      13668
+      13594
     ],
     "Sections": [
       {
@@ -3151,7 +3132,7 @@
   },
   {
     "Stats": [
-      13670
+      13596
     ],
     "Sections": [
       {
@@ -3182,7 +3163,7 @@
   },
   {
     "Stats": [
-      13682
+      13608
     ],
     "Sections": [
       {
@@ -3232,7 +3213,7 @@
   },
   {
     "Stats": [
-      13641
+      13567
     ],
     "Sections": [
       {
@@ -3263,7 +3244,7 @@
   },
   {
     "Stats": [
-      13649
+      13575
     ],
     "Sections": [
       {
@@ -3294,7 +3275,7 @@
   },
   {
     "Stats": [
-      13666
+      13592
     ],
     "Sections": [
       {
@@ -3325,7 +3306,7 @@
   },
   {
     "Stats": [
-      13676
+      13602
     ],
     "Sections": [
       {
@@ -3356,7 +3337,7 @@
   },
   {
     "Stats": [
-      13644
+      13570
     ],
     "Sections": [
       {
@@ -3387,7 +3368,7 @@
   },
   {
     "Stats": [
-      13680
+      13606
     ],
     "Sections": [
       {
@@ -3418,7 +3399,7 @@
   },
   {
     "Stats": [
-      13672
+      13598
     ],
     "Sections": [
       {
@@ -3449,7 +3430,7 @@
   },
   {
     "Stats": [
-      13640
+      13566
     ],
     "Sections": [
       {
@@ -3480,7 +3461,7 @@
   },
   {
     "Stats": [
-      13674
+      13600
     ],
     "Sections": [
       {
@@ -3511,7 +3492,7 @@
   },
   {
     "Stats": [
-      13677
+      13603
     ],
     "Sections": [
       {
@@ -3542,7 +3523,7 @@
   },
   {
     "Stats": [
-      13678
+      13604
     ],
     "Sections": [
       {
@@ -3573,7 +3554,7 @@
   },
   {
     "Stats": [
-      13679
+      13605
     ],
     "Sections": [
       {
@@ -3604,7 +3585,7 @@
   },
   {
     "Stats": [
-      13646
+      13572
     ],
     "Sections": [
       {
@@ -3635,7 +3616,7 @@
   },
   {
     "Stats": [
-      13671
+      13597
     ],
     "Sections": [
       {
@@ -3666,7 +3647,7 @@
   },
   {
     "Stats": [
-      13650
+      13576
     ],
     "Sections": [
       {
@@ -3697,7 +3678,7 @@
   },
   {
     "Stats": [
-      13648
+      13574
     ],
     "Sections": [
       {
@@ -3728,7 +3709,7 @@
   },
   {
     "Stats": [
-      13662
+      13588
     ],
     "Sections": [
       {
@@ -3759,7 +3740,7 @@
   },
   {
     "Stats": [
-      13663
+      13589
     ],
     "Sections": [
       {
@@ -3790,7 +3771,7 @@
   },
   {
     "Stats": [
-      13664
+      13590
     ],
     "Sections": [
       {
@@ -3821,7 +3802,7 @@
   },
   {
     "Stats": [
-      13665
+      13591
     ],
     "Sections": [
       {
@@ -3852,7 +3833,7 @@
   },
   {
     "Stats": [
-      22444
+      22331
     ],
     "Sections": [
       {
@@ -3871,7 +3852,7 @@
   },
   {
     "Stats": [
-      22445
+      22332
     ],
     "Sections": [
       {
@@ -3890,7 +3871,7 @@
   },
   {
     "Stats": [
-      22443
+      22330
     ],
     "Sections": [
       {
@@ -3909,7 +3890,7 @@
   },
   {
     "Stats": [
-      13630
+      13556
     ],
     "Sections": [
       {
@@ -3940,7 +3921,7 @@
   },
   {
     "Stats": [
-      13632
+      13558
     ],
     "Sections": [
       {
@@ -3971,7 +3952,7 @@
   },
   {
     "Stats": [
-      8479
+      8464
     ],
     "Sections": [
       {
@@ -3990,7 +3971,83 @@
   },
   {
     "Stats": [
-      13719
+      26886
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Contains an [AzmeriSpirit|Azmeri Spirit]}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      26884
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Monsters have 20% increased [MonsterEffectiveness|Effectiveness]}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      26960
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Blessed by Kaom}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      26885
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Adds a random runeshape to all monsters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      13644
     ],
     "Sections": [
       {
@@ -4009,7 +4066,7 @@
   },
   {
     "Stats": [
-      16699
+      16591
     ],
     "Sections": [
       {
@@ -4028,7 +4085,7 @@
   },
   {
     "Stats": [
-      1028
+      1029
     ],
     "Sections": [
       {
@@ -4059,7 +4116,7 @@
   },
   {
     "Stats": [
-      1030
+      1031
     ],
     "Sections": [
       {
@@ -4078,7 +4135,7 @@
   },
   {
     "Stats": [
-      22624
+      22508
     ],
     "Sections": [
       {
@@ -4097,7 +4154,7 @@
   },
   {
     "Stats": [
-      19993
+      19879
     ],
     "Sections": [
       {
@@ -4128,7 +4185,7 @@
   },
   {
     "Stats": [
-      19991
+      19877
     ],
     "Sections": [
       {
@@ -4159,7 +4216,7 @@
   },
   {
     "Stats": [
-      1029
+      1030
     ],
     "Sections": [
       {
@@ -4173,6 +4230,37 @@
           "NoFunction"
         ],
         "String": "<enchanted>{{{0}% increased number of Magic Monsters}}"
+      }
+    ]
+  },
+  {
+    "Stats": [
+      24372
+    ],
+    "Sections": [
+      {
+        "StatRanges": [
+          {
+            "Item1": 1,
+            "Item2": 2147483647
+          }
+        ],
+        "StatConversionTypes": [
+          "NoFunction"
+        ],
+        "String": "<enchanted>{{Monsters have {0}% increased [MonsterEffectiveness|Effectiveness]}}"
+      },
+      {
+        "StatRanges": [
+          {
+            "Item1": -2147483648,
+            "Item2": -1
+          }
+        ],
+        "StatConversionTypes": [
+          "Negate"
+        ],
+        "String": "<enchanted>{{Monsters have {0}% reduced [MonsterEffectiveness|Effectiveness]}}"
       }
     ]
   },
